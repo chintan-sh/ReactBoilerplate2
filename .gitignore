@@ -1,0 +1,17 @@
+/.idea
+/out
+.idea/
+out/
+input*/
+out*/
+react.iml
+/lib
+lib/
+lib*/
+archive/
+/archive
+archive*/
+/node_modules
+node_modules/
+package-lock.json
+
